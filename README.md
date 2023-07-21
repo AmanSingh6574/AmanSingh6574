@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh6574&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh6574" /> </p> -->
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I am a **MERN Stack** Developer
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://prismatic-zuccutto-7e817c.netlify.app/)
 
